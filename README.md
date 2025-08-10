@@ -1,7 +1,7 @@
 Ethereum Execution Tests (EVM)   [![Build Status](https://travis-ci.org/ethereum/tests.svg?branch=develop)](https://travis-ci.org/ethereum/tests)
 =====
 
-Common tests for all clients to test against. Test execution tool: https://github.com/ethereum/retesteth
+Common tests under Cancun fork for all clients to test against. Test execution tool: https://github.com/ethereum/retesteth
 
 Test Formats
 ------------
